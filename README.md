@@ -78,7 +78,7 @@ Sizin de benzer bir deneyiminiz oldu mu? Yorumlarda paylaşın! 👇
 Birden fazla varyasyon için:
 
 ```bash
-python generator.py "Kahve makinesini tamir ettim" -n 3
+python generator.py "Kahve makinesini tamir ettim." -n 3
 ```
 
 ## 🗺️ Roadmap
